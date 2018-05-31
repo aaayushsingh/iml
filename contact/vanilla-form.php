@@ -7,7 +7,7 @@ define('FROM_EMAIL', '');
 // Recipient's e-mail. To this e-mail messages will be sent.
 // e.g.: john@example.com
 // multiple recipients e.g.: john@example.com, andy@example.com
-define('TO_EMAIL', 'john@example.com');
+define('TO_EMAIL', 'info@imakelingerie.co.uk');
 
 /**
  * Function for sending messages. Checks input fields, prepares message and sends it.
